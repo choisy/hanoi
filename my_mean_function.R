@@ -3,3 +3,8 @@ my_mean <- function(x) {
   length2 <- length(x)
   the_sum / length2
 }
+
+# example:
+ages <- c(34, 32, 12)
+my_mean(ages)
+
